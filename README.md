@@ -65,7 +65,7 @@ OpenCV-Monocular-Metrology
 # ⚙️ Working Pipeline
 
 ```
-Camera
+    Camera
       │
       ▼
 Chessboard Calibration
